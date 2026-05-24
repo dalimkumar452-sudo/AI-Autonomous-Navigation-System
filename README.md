@@ -16,11 +16,20 @@ To demonstrate versatility, this project includes **two distinct simulation envi
 ## 🎥 Project Demos
 
 ### 1. Continuous Environment (with Simulated LiDAR)
-*(Upload your Pro-Level screen recording/GIF here and replace this text with the link)*
+
+https://github.com/user-attachments/assets/74ed8af6-1eb8-4817-9ea0-24c1931667b9
+
+
+
+
 > The robot uses 5 ray-casted sensor beams to detect walls and safely navigate to the goal while displaying real-time telemetry.
 
 ### 2. Discrete Grid Environment
-*(Upload your Grid-Level screen recording/GIF here and replace this text with the link)*
+
+
+https://github.com/user-attachments/assets/8ff849cd-b457-48a8-bca9-fcda73b73676
+
+
 > The agent learns to navigate a 15x15 grid, intelligently avoiding static black obstacles to reach the target block.
 
 ---
