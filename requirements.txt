@@ -1,0 +1,14 @@
+# Reinforcement Learning Framework (PPO, SAC, etc.)
+stable-baselines3>=2.0.0
+
+# Environment standard for Reinforcement Learning
+gymnasium>=0.29.0
+
+# Core mathematical operations
+numpy>=1.20.0
+
+# Tool for packaging and managing dependencies
+setuptools
+
+# Optional: For tracking AI training progress and graphs
+tensorboard
